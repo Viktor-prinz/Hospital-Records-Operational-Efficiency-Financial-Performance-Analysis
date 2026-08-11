@@ -132,16 +132,16 @@ Infant patients recorded the highest average bill at $13,020, followed by Young 
 
 ---
 
-## About Me
+## About the Author
 
-I am Emeka Victor Prince, a data analyst in training at Attueyi Coding Academy (ACA) in Lagos, Nigeria. This project is part of a structured portfolio of 20 real-world capstone analyses spanning Sales & Revenue, Healthcare, HR & Workforce, Finance, and Supply Chain — built to demonstrate end-to-end analytical capability across Excel, SQL, and Power BI.
+**Emeka Victor Prince**
+Junior Data Analyst | Co-Lead, Plasma Africa
 
-I am currently in Week 6–7 of a 12-week intensive programme, working through each project with a full workflow: raw data ingestion, Power Query cleaning, DAX measure development, dashboard design, and GitHub documentation.
+This project is part of a structured 20-project professional portfolio covering Sales & Revenue Analytics, Healthcare Analytics, HR & Workforce Analytics, Finance & Investment Analytics, and Supply Chain & Operations Analytics — built end-to-end using Excel, Power Query, SQL Server, and Power BI.
 
-Outside of the programme, I serve as Co-Lead of Plasma Africa and hold interests in onchain data analysis and technical content strategy.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0071CE?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-prince)
+[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-041F41?style=flat&logo=github)](https://github.com/Viktor-prinz)
 
-I am open to analyst roles, freelance projects, and collaborations in data and technical content.
+---
 
-**GitHub:** [Viktor-prinz](https://github.com/Viktor-prinz)
-
-**LinkedIn:** [linkedin.com/in/victor-prince](https://linkedin.com/in/victor-prince)
+*Analysis period: 2021 – 2024 | Dataset: 1000 Patients | 4 years record*
