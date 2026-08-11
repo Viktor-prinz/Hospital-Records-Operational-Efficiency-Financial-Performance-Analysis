@@ -122,13 +122,13 @@ Infant patients recorded the highest average bill at $13,020, followed by Young 
 ## Dashboard Screenshots
 
 ### Patients Overview
-![Patients Overview](screenshots/PatientsOverview.png)
+![Patients Overview](PatientsOverview.png)
 
 ### Operational Efficiency
-![Operational Efficiency](screenshots/OperationalEfficiency.png)
+![Operational Efficiency](OperationalEfficiency.png)
 
 ### Financial Performance
-![Financial Performance](screenshots/FinancialPerformance.png)
+![Financial Performance](FinancialPerformance.png)
 
 ---
 
