@@ -1,7 +1,5 @@
 # Hospital Records 2021–2024: Operational Efficiency & Financial Performance Analysis
 
-**Group 2 — Healthcare & Public Health Analytics | Project 4**
-
 ---
 
 ## Project Overview
