@@ -93,7 +93,7 @@ Alzheimer's Disease and Skin Infection tied as the most frequently diagnosed con
 
 The average length of stay across all admissions was 16 days. Chronic Obstructive Pulmonary Disease recorded the longest average stay at 19 days, followed by Fracture at 18 days and Hypertension, Skin Infection, and Influenza each averaging 17 days.
 
-Examining the distribution of stays, the 22–30 day band was the largest group with 305 patients, suggesting the facility manages a significant proportion of complex, extended-care admissions. Short-stay patients (1–7 days) numbered 231, while the mid-range bands, 8–14 days and 15–21 days — accounted for 212 and 252 patients respectively.
+Examining the distribution of stays, the 22–30 day band was the largest group with 305 patients, suggesting the facility manages a significant proportion of complex, extended-care admissions. Short-stay patients (1–7 days) numbered 231, while the mid-range bands, 8–14 days and 15–21 days, accounted for 212 and 252 patients respectively.
 
 Medication was the most frequently administered treatment by a wide margin at 192 instances, nearly double Physical Therapy in second place at 92. Rest, Antibiotics, Lifestyle Changes, and Surgery rounded out the top six treatments.
 
